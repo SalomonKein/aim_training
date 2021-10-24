@@ -105,9 +105,9 @@ function getRandomColor() {
 
 
 
-// in this place situated some changes - those must be in origin master
+// there were some changes in this place - they should be in the origin of the master
 function sum(a, b){
   return a + b
 }
 
-sum(2, 7)
+sum(7, 5)
