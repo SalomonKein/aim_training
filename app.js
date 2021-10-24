@@ -102,3 +102,12 @@ function getRandomColor() {
   const index = Math.floor(Math.random() * colors.length);
   return colors[index];
 }
+
+
+
+// in this place situated some changes - those must be in origin master
+function sum(a, b){
+  return a + b
+}
+
+sum(2, 7)
