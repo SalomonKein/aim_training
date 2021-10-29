@@ -110,4 +110,4 @@ function sum(a, b){
   return a + b
 }
 
-sum(2, 7)
+sum(3, 5)
